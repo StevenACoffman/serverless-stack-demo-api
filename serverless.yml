@@ -1,4 +1,4 @@
-service: react-notes-app-api
+service: notes-app-api
 
 # use serverless-webpack plugin to transpile ES6
 plugins:
